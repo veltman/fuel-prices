@@ -1,0 +1,25 @@
+{
+  "name": "fuel-prices",
+  "version": "1.0.0",
+  "description": "Misc. fuel price data",
+  "main": "combine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veltman/fuel-prices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veltman/fuel-prices/issues"
+  },
+  "homepage": "https://github.com/veltman/fuel-prices#readme",
+  "dependencies": {
+    "dsv": "0.0.5",
+    "queue-async": "^1.2.1",
+    "underscore": "^1.8.3"
+  }
+}

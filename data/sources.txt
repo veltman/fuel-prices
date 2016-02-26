@@ -1,0 +1,16 @@
+Motor Gasoline Supplied: http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MGFUPUS2&f=M
+
+Miles Driven: https://www.fhwa.dot.gov/policyinformation/statistics/2013/vmt421c.cfm
+
+Population: https://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&met_y=population&idim=country:US&hl=en&dl=en
+
+Gas prices since 1976: http://www.eia.gov/forecasts/steo/realprices/
+
+Gas prices since 1949: http://www.eia.gov/beta/MER/index.cfm?tbl=T09.04#/?f=A&start=200001
+http://www.eia.gov/beta/MER/index.cfm?tbl=T09.04#/?f=A&start=1949&end=2014&charted=5-2
+Table 9.4
+
+Mileage from EIA: http://www.eia.gov/totalenergy/data/annual/#consumption
+2.8 Motor Vehicle Mileaege
+
+CPI from: https://www.minneapolisfed.org/community/teaching-aids/cpi-calculator-information/consumer-price-index-and-inflation-rates-1913

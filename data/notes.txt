@@ -1,0 +1,25 @@
+Don't know why this PDF is in here:
+http://www.eia.gov/totalenergy/data/monthly/pdf/sec1_17.pdf
+
+FHA's Traffic Volume Trends (TVT) has mileage stats. Roughly matches NYT, but for total population, not just "Americans of driving age" - that stat in intro may be separately computed:
+
+https://www.fhwa.dot.gov/ohim/tvtw/archive/arch00u.htm
+
+Total miles driven in 2000: 2,746,925,000,000
+US population in 2000: 282,000,000
+9,740 miles per person
+
+Fuel economy (only starts in 1975): http://epa.gov/otaq/fetrends-complete.htm
+
+http://www.eia.gov/forecasts/steo/documentation/gasoline_cons.pdf
+
+MPG = (MVVMPUS / MGHCPUS) / 42
+where
+MPG  =   gasoline‐related highway fuel efficiency, miles per gallon;
+MVVMPUS  =  vehicles miles traveled, million miles per day;
+MGHCPUS  =  highway consumption of motor gasoline, million barrels per day.
+42 gallons to a barrel of oil
+
+Data on total motor fuel consumed in the US by year:
+
+http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mgfupus2&f=a
